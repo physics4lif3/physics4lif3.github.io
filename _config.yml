@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: http://images4.fanpop.com/image/photos/16300000/Sheldon-Cooper-sheldon-cooper-16366618-375-500.jpg
+avatar: https://images4.fanpop.com/image/photos/16300000/Sheldon-Cooper-sheldon-cooper-16366618-375-500.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
